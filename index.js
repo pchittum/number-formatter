@@ -7,5 +7,7 @@
 * @return {string}
 */
 module.exports = function(number, locale){
-  return number.toLocaleString(locale);
+  var numFormatted = number.toLocaleString(locale);
+  console.log('numFormatted');
+  return numFormatted;
 };
