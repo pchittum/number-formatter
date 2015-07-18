@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/pchittum/number-formatter/issues"
   },
-  "homepage": "https://github.com/pchittum/number-formatter#readme"
+  "homepage": "https://github.com/pchittum/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.1.0",
+    "mocha": "^2.2.5"
+  }
 }
