@@ -1,0 +1,24 @@
+{
+  "name": "@username/number-formatter",
+  "version": "0.0.1",
+  "description": "Number Formatter Tutorial by jdaudier",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchittum/number-formatter.git"
+  },
+  "keywords": [
+    "tutorial",
+    "node",
+    "numbers"
+  ],
+  "author": "Peter Chittum <pchittum@gmail.com> (pchittum.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pchittum/number-formatter/issues"
+  },
+  "homepage": "https://github.com/pchittum/number-formatter#readme"
+}
