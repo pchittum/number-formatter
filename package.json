@@ -1,6 +1,6 @@
 {
   "name": "@pchittum/number-formatter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Number Formatter Tutorial by jdaudier",
   "main": "index.js",
   "scripts": {
